@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @pahaf19
-- 👀 I’m interested in Robots 
-- 🌱 I’m currently learning Robots
-- 💞️ I’m looking to collaborate on Robots
-- 📫 How to reach me Robots
+- 👀 I’m interested in Space + Robots 
+- 🌱 I’m currently working as an Algorithm Engineer @ a Doppler Radar company
 
 <!---
 pahaf19/pahaf19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
